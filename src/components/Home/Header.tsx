@@ -7,7 +7,7 @@ export default function Header() {
       <TouchableOpacity>
         <Image
           style={styles.logo}
-          source={require("../../assets/header_logo.svg")}
+          source={require("../../../assets/header_logo.svg")}
         />
       </TouchableOpacity>
     </View>
